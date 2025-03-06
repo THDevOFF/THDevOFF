@@ -1,4 +1,4 @@
-# Hi there, I'm [TheHamsterDev](https://andrewzex.ru)
+# Hi there, I'm TheHamsterDev
 ## I'm Simple Hamster, who's learning JS, Java, Python and Rust
 
 ## Some info about me
