@@ -3,11 +3,11 @@
 
 ## Some info about me
 ### Main info
-- Name: Andrew Zex
+- Name: THDev
 - Age: 18 yo
 - Birthday: 30th December
 - Country: Russia
-- Languages: Russian, English and some Ukranian
+- Languages: Russian, English
 
 ### Skills
 Programming languages:
