@@ -4,7 +4,7 @@
 ## Some info about me
 ### Main info
 - Name: THDev
-- Age: 18 yo
+- Age: 19 yo
 - Birthday: 30th December
 - Country: Russia
 - Languages: Russian, English
