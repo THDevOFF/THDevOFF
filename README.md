@@ -27,10 +27,10 @@ Operating Systems
 - - ![Kubuntu](https://img.shields.io/static/v1?label=&message=Kubuntu&color=191919&style=for-the-badge&logo=Kubuntu&logoColor=0079C1)
 - - ![Mint](https://img.shields.io/static/v1?label=&message=Linux+Mint&color=191919&style=for-the-badge&logo=Linux+Mint&logoColor=87CF3E)
 ## My GitHub's stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Zex&theme=radical&show_icons=true&title_color=00FF00)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Zex&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=THDevOFF&theme=radical&show_icons=true&title_color=00FF00)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THDevOFF&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Github Activity: 
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Zex&theme=react-dark)
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=THDevOFF&theme=react-dark)
 
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
